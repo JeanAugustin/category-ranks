@@ -1,10 +1,17 @@
 {"CategoryRanks":[
-  { "Hard Coolers": 1 },
-  { "4thjuly-hardcoolers": 2 },
-  { "fathersday-hardcoolers": 3 },
-  { "IDme-hardcoolers": 4 },
-  { "coolers": 5 },
-  { "new": 6 },
-  { "hardcooler": 7 },
-  { "originalhardcooler": 8 }
+  { "top-category": 1 },
+  { "top-category-2": 2 },
+  { "top-category-3": 3 },
+  { "top-category-4": 4 },
+  { "top-category-5": 5 },
+  { "mid-category": 6 },
+  { "mid-category-2": 7 },
+  { "mid-category-3": 8 },
+  { "mid-category-4": 9 },
+  { "mid-category-5": 10 },
+  { "low-category": 11 },
+  { "low-category-2": 12 },
+  { "low-category-3": 13 },
+  { "low-category-4": 14 },
+  { "low-category-5": 15 }
 ]}
